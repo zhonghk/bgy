@@ -1,0 +1,36 @@
+html{
+	font-size:62.5%;
+}
+body, html {
+	height: 100%;
+	-webkit-tap-highlight-color: transparent;
+}
+
+section{
+	border:1px solid transparent;
+}
+
+.LS_title{
+	font-size:2.5rem;
+	text-align:center;
+}
+ul,li{
+	margin:0rem;
+	padding:0rem;
+	list-style-type:none;
+}
+.LS ul li{
+	font-size:1.5rem;
+	float:left;
+	text-align:center;
+	width:33.3%;
+	background-color:#ccc;
+	padding:0.5rem 0;
+}
+
+.weui-tab__bd #tab2 div{
+	padding:0 5%;
+}
+.weui-tab__bd img{
+	width:100%;
+}
